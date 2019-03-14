@@ -6,3 +6,4 @@ Commit 4 create third merge conflict
 Commit 5 check origin
 check rebase 1
 check rebase 2
+dev2: remote_1
