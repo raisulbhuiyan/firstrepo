@@ -1,0 +1,4 @@
+local_branch_2
+commit_1
+commit_2
+commit_3
