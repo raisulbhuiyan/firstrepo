@@ -7,3 +7,4 @@ git fetch did not update any
 dev_1:changing from the br2_1
 dev_1:changing from the br2_2
 dev_1:br2_3
+pull all
