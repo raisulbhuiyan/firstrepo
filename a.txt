@@ -2,5 +2,5 @@ local_branch_1
 commit 1
 Commit 2
 commit 3
-Commit 4 in the origin
+Commit 4
 Commit 5 check origin

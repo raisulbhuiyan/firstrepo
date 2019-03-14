@@ -1,5 +1,5 @@
 local_branch_2
 commit_1
 commit_2
-commit_3
+commit_3 change to learn about merge conflict
 git fetch did not update any
