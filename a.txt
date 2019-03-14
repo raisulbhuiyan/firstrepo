@@ -4,5 +4,6 @@ Commit 2
 commit 3 changes for the rbase test
 Commit 4 create third merge conflict
 Commit 5 check origin
-removed merge issue 7
-removed merge issue 8
+check rebase 1
+check rebase 2
+dev2: remote_1
