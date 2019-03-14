@@ -1,6 +1,6 @@
 local_branch_1
 commit 1
 Commit 2
-commit 3
+commit 3 changes for the rbase test
 Commit 4 create third merge conflict
 Commit 5 check origin
