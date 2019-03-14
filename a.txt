@@ -2,5 +2,5 @@ local_branch_1
 commit 1
 Commit 2
 commit 3
-Commit 4
+Commit 7 create second merge conflict
 Commit 5 check origin
