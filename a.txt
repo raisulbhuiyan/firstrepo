@@ -7,4 +7,4 @@ Commit 5 check origin
 check rebase 1
 check rebase 2
 dev2: remote_1
-pull all
+pull remote_1
